@@ -300,7 +300,7 @@ namespace LinqTutorials
         /// </summary>
         public static IEnumerable<Emp> Task12()
         {
-            IEnumerable<Emp> result = ;
+            IEnumerable<Emp> result = ; // tu używamy już "CustomExtensionMethods"
             return result;
         }
 
