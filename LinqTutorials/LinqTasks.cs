@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Common;
 using System.Linq;
 using LinqTutorials.Models;
 
@@ -286,7 +287,8 @@ namespace LinqTutorials
         /// </summary>
         public static IEnumerable<object> Task11()
         {
-            IEnumerable<object> result = ;
+            IEnumerable<object> result = Emps.Join(Depts, emp => emp.Deptno, dept => dept.Deptno, (emp, dept) => new {emp, dept})
+            .GroupBy(x => x.dept).Where(x => x.Count() > 1).Select(x => new { name = x.Key.Dname, numOfEmployees = x.Count()}).ToList();
             return result;
         }
 
