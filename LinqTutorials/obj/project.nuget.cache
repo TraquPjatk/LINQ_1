@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oRc7Yk+gdVCA+xXZhUCfbRaZFazi76PMxBgwXZijU5/Z0/Q75THHhuIdZVtHgslw0ww1Nm3xZbANeXlP3lqgUQ==",
+  "dgSpecHash": "M2tnKnNYALypUcq7Nv3FH+KJoGmk97+ScTgBakxeO71cnz4ZzgNnE0PZXmakORIwGPdtaqI0KUNJo2l7uQHM6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s19787\\Desktop\\LinqCwiczenia\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj",
+  "projectFilePath": "C:\\Users\\piotr\\Desktop\\LINQ_1\\LinqTutorials\\LinqTutorials.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\s19787\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
